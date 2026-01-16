@@ -1,0 +1,7 @@
+{
+  "name": "BharatAI Calling Agent",
+  "description": "A sophisticated AI calling assistant supporting 22 Indian languages and English, providing real-time voice interaction using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
